@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Planta
+comment1.params=nroRegadas\ costo\ nombre
+comment1.target=Planta(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ regar()
+comment3.params=
+comment3.target=int\ getRegadas()
+comment4.params=
+comment4.target=int\ cosechar()
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+numComments=6

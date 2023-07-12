@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Huerto
+comment1.params=
+comment1.target=Huerto()
+comment10.params=
+comment10.target=java.lang.String\ mostrarHuerto()
+comment2.params=
+comment2.target=java.lang.String\ iniciar()
+comment3.params=fila
+comment3.target=java.lang.String\ regarHorizontal(int)
+comment4.params=col
+comment4.target=java.lang.String\ regarVertical(int)
+comment5.params=fil\ col
+comment5.target=java.lang.String\ usarBonus(int,\ int)
+comment6.params=
+comment6.target=void\ contarJugada()
+comment7.params=
+comment7.target=void\ generarCampo()
+comment8.params=
+comment8.target=Planta\ generarPlanta()
+comment9.params=
+comment9.target=boolean\ enJuego()
+numComments=11
