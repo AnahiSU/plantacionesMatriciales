@@ -1,3 +1,4 @@
+El siguiente problema presentado es el trabajo resultante de la tarea final de la materia de introducción a la programación, en la Universidad Mayor de San Simón dictado por la lic. Maria Leticia Blanco Coca.
 # Plantaciones matriciales.
 ## El Huerto POO.
 ### Autores: Anahí Sanabria Ugarte, Leonel Zeballos Aldunate, Mateo Merino Vidal
