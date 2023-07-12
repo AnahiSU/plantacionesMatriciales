@@ -26,4 +26,4 @@ Se te pide:
  ***
 # Resolución propuesta
 Como primer paso, se deben identificar las clases necesarias de acuerdo a lo que pide el problema. Para ello se ha diseñado un diagrama de clases:
-!https://github.com/AnahiSU/plantacionesMatriciales/blob/main/Diagrama%20de%20clases%20resultante.png
+![Diagrama de clases resultante](https://github.com/AnahiSU/plantacionesMatriciales/blob/main/Diagrama%20de%20clases%20resultante.png)
