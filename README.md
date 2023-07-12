@@ -25,5 +25,9 @@ Se te pide:
 5. Controlar que Lisandro no exceda las 18 regadas e implementa el método para verificar el estado luego de cada regada.
  ***
 # Resolución propuesta
-Como primer paso, se deben identificar las clases necesarias de acuerdo a lo que pide el problema. Para ello se ha diseñado un diagrama de clases:
+
+Las destrezas usadas son el temario aprendido en clases de todo el semetres: manejo de variables y operadores, POO, ciclos, bucles, arrays, matrices y herencia.
+
+Se deben identificar las clases necesarias de acuerdo a lo que pide el problema. Para ello se ha diseñado un diagrama de clases:
+
 ![Diagrama de clases resultante](https://github.com/AnahiSU/plantacionesMatriciales/blob/main/Diagrama%20de%20clases%20resultante.png)
