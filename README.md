@@ -24,6 +24,6 @@ Se te pide:
 4. Diseñar la herencia de cada tipo de planta.
 5. Controlar que Lisandro no exceda las 18 regadas e implementa el método para verificar el estado luego de cada regada.
  ***
-#Resolución propuesta
+# Resolución propuesta
 Como primer paso, se deben identificar las clases necesarias de acuerdo a lo que pide el problema. Para ello se ha diseñado un diagrama de clases:
-!
+!https://github.com/AnahiSU/plantacionesMatriciales/blob/main/Diagrama%20de%20clases%20resultante.png
