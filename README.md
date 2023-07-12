@@ -1,4 +1,5 @@
-El siguiente problema presentado es el trabajo resultante de la tarea final de la materia de introducción a la programación, en la Universidad Mayor de San Simón dictado por la lic. Maria Leticia Blanco Coca.
+_El siguiente problema fue redactado y resuelto por los autores y entregado como tarea final de la materia de introducción a la programación, primer semestre, en la Universidad Mayor de San Simón dictado por la lic. Maria Leticia Blanco Coca._
+***
 # Plantaciones matriciales.
 ## El Huerto POO.
 ### Autores: Anahí Sanabria Ugarte, Leonel Zeballos Aldunate, Mateo Merino Vidal
@@ -22,4 +23,7 @@ Se te pide:
 3. Implementar el método para controlar los bonus que recibe Lisandro por parte de su hermano y regar una sola planta.
 4. Diseñar la herencia de cada tipo de planta.
 5. Controlar que Lisandro no exceda las 18 regadas e implementa el método para verificar el estado luego de cada regada.
- 
+ ***
+#Resolución propuesta
+Como primer paso, se deben identificar las clases necesarias de acuerdo a lo que pide el problema. Para ello se ha diseñado un diagrama de clases:
+!
