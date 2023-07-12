@@ -33,4 +33,4 @@ Se deben identificar las clases necesarias de acuerdo a lo que pide el problema.
 
 ![Diagrama de clases resultante](https://github.com/AnahiSU/plantacionesMatriciales/blob/main/Diagrama%20de%20clases%20resultante.png)
 
-Una vez claras las ideas, se procede con la codificación. El código que se diseñó se encuentra en este apartado. Está comentado para facilidad del lector.
+Una vez claras las ideas, se procede con la codificación. El código que se diseñó se encuentra [en este apartado](https://github.com/AnahiSU/plantacionesMatriciales/tree/main/code). Está comentado para facilidad del lector.
