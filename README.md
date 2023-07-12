@@ -8,6 +8,7 @@ Las plantas que cultiva Lisandro son las siguientes:
 - Ramiper => 3 regadas, 25 bs cada una.
 - Betometas => 2 regadas, 15 bs cada una.
 - Rezagametas => 4 regadas, 30 bs cada una.
+
 El huerto de tiene un tamaño de 3x3 y él solo cuenta con 18 riegos debido a que no pagará su servicio de agua durante el tiempo que esté de viaje.
 Se te pide:
 1. Crear las clases Huerto, Monedero, Planta.
